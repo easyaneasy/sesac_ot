@@ -2,3 +2,8 @@ Goodbye git
 Welcome
 
 hello
+
+git
+push
+merge
+origin
