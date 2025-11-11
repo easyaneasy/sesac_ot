@@ -4,4 +4,4 @@ git
 main
 feature
 
-빼빼로 또 준다 ㅋㅋ ㄳㄳ
+Goodbye
