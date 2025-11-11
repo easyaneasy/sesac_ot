@@ -7,3 +7,6 @@ git
 push
 merge
 origin
+
+동기화
+컴플릭트
