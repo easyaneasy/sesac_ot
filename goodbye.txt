@@ -17,3 +17,5 @@ Goodbye
 Goodbye
 Goodbye
 Goodbye
+동기화
+컴플릭트
