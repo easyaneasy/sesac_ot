@@ -4,3 +4,9 @@ Hello World~~~~~~
 hello vscode
 
 bye bye see you~
+
+Hello
+
+clear
+ls
+cd
